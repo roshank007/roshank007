@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on entry level data analyst.
 - 📫 How to reach me click the link -> linktr.ee/R_007 .
 - Sv(it)ian | St. Clairian | chai | food | travel | nature | game | nightowl | Hogwarts | Developer
-
+- Wear your failures as a badge of honour.
 <!---
 roshank007/roshank007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
