@@ -47,7 +47,10 @@
 <br><br>
 [<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/roshankalyani/)
 <br><br>
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_roshankalyani)
+[<img align="top" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_roshankalyani)
+<br><br>
+[<img align="top" alt="Gmail" src="https://img.shields.io/badge/-RoshanKalyani-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:roshan.150410116024@gmail.com)"/>](mailto:roshan.150410116024@gmail.com)
+
 
 
 <!---
