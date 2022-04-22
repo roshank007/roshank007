@@ -58,7 +58,19 @@
 <br><br>
 [<img align="top" alt="Gmail" src="https://img.shields.io/badge/-RoshanKalyani-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:roshan.150410116024@gmail.com)"/>](mailto:roshan.150410116024@gmail.com)
 
-
+<hr>
+<div style="display: block;">
+<p>
+  <h3 align="center">Stats:</h3>
+<p>
+    <a align="left">
+      <p><img align="left" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=roshank007&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="roshank007" /></p></a>
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=roshank007&show_icons=true&theme=dark&locale=en" alt="roshank007" /></p></a>  
+  </p>
+</p>
+</div>
+<hr>
 
 <!---
 roshank007/roshank007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
