@@ -35,7 +35,6 @@
   
   
 <div>
-<details><summary>
   <h2 >  Connect with me </h2>
   <p align="left">
   </summary>
@@ -46,7 +45,6 @@
 <br><br>
 [<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/roshankalyani/)
 <br><br>
-</summary>
 
 <!---
 roshank007/roshank007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
