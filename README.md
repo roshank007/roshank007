@@ -68,7 +68,7 @@
     <a align="left">
       <p><img align="left" 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=roshank007&show_icons=true&theme=dark&locale=en&unhide=jupyter%20notebook,lex,&langs_count=8" alt="roshank007" /></p></a>
-   <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=roshank007&show_icons=true&theme=dark&locale=en" alt="roshank007" /></p></a>
+  <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=roshank007&show_icons=true&theme=dark&locale=en" alt="roshank007" /></p></a>
   </p>
 </p>
 </div>
