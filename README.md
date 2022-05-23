@@ -33,7 +33,6 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> </a>
  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="ARDUINO"/> </a>
- (https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
 <a href="https://colab.research.google.com/notebooks/" target="_blank"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/> </a>
 <a href="https://docs.anaconda.com/anaconda/user-guide/tasks/integration/spyder/#:~:text=Spyder%2C%20the%20Scientific%20Python%20Development,%2C%20debugging%2C%20and%20introspection%20features.&text=Spyder%20is%20also%20pre%2Dinstalled,which%20is%20included%20in%20Anaconda." target="_blank"> <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="Spyder"/> </a>
